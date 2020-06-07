@@ -50,7 +50,6 @@ function verifyCeldas(id) {
   ];
   let val = false;
   casos.forEach(pos => {
-    console.log(pos);
     if(pos === posFinal){
       setTimeout(() => {
         alert('Juego finalizado.');
