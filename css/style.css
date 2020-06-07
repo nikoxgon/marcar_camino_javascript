@@ -1,0 +1,19 @@
+td {
+  width: 50px;
+  height: 50px;
+}
+
+.ultima {
+  background: red;
+}
+
+.color {
+  background: green;
+}
+
+
+td {
+  border: 1px solid blue;
+  border-radius: 5px;
+  background: grey;
+}
